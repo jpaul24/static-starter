@@ -1,0 +1,24 @@
+{
+  "name": "static-starter",
+  "version": "1.0.0",
+  "description": "basic skeleton for site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpaul24/static-starter.git"
+  },
+  "author": "Joe Paul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpaul24/static-starter/issues"
+  },
+  "homepage": "https://github.com/jpaul24/static-starter#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2"
+  }
+}
